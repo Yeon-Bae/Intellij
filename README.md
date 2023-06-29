@@ -2,8 +2,9 @@
 인텔리제이 단축키 정리
 
 
-코드 템플릿: [CodeTemplateLink]
-라인 에디트: [LineEditLink]
+> 코드 템플릿: [CodeTemplateLink]
+
+> 라인 에디트: [LineEditLink]
 
 
 
